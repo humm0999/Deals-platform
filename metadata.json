@@ -1,0 +1,6 @@
+{
+  "name": "Deals Platform",
+  "description": "Professional affiliate product discovery, comparison matrix, buying guides and SEO optimization platform integrated with Amazon India Associates Program and Google AdSense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
